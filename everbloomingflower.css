@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(67, 128, 86);
+    font-size: 33px;
+    text-align: center;
+    border-color: rgb(150, 173, 255);
+}
+body{
+    background-color: rgb(255, 255, 255);
+    font-size: larger;
+    font-family: cursive;
+}
+ .center{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+}
+
+h2 {
+        color:rgb(67, 128, 86)        
+}
+p { 
+    text-align: left;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    color: black;
+}
+h4 {
+    text-align: center;
+    font-size: x-small;
+}
+
+p {
+    text-align: center;
+}
+a {
+    font-size: x-small;
+}
